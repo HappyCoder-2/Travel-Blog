@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  border: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .nav-item {
+  color: #2a9d8f; 
+  text-decoration: none;
+  }
+
+  .nav-item:visited {
+    color: #d90429;
+  }
+
+  .nav-item:hover {
+    color: #ffbe0b;
+  }
